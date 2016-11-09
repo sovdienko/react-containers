@@ -2,7 +2,7 @@
   "name": "react-containers",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sovdienko.github.io/react-containers",
+  "homepage": "https://sovdienko.github.io/react-containers",
   "devDependencies": {
     "gh-pages": "^0.11.0",
     "react-scripts": "0.7.0"
